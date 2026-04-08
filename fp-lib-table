@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MyFootprintLibrary") (type "KiCad") (uri "C:/Users/eno3/OneDrive - University of Leicester/Work/Research Assistant 2026/MyKiCAD_Library/MyFootprintLibrary.pretty") (options "") (descr ""))
+	(lib (name "CA-C03_antenna_footprint") (type "KiCad") (uri "${KIPRJMOD}/CA-C03_antenna_footprint.pretty") (options "") (descr ""))
+)
