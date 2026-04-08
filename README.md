@@ -16,7 +16,7 @@ This project implements a highly compact ESP32-C3-based development board, desig
 
 The result is a lean, flexible, and fully manufacturable platform for embedded and IoT applications where space, control, and efficiency matter.
 
-Features
+Features:
 - Ultra-compact PCB design (25mm × 27.8mm) optimised for space-constrained applications
 - Built around the ESP32-C3 SoC (RISC-V architecture, Wi-Fi + Bluetooth LE)
 - Uses a compact CA-C03 antenna based on manufacturer reference design
@@ -50,8 +50,7 @@ Once assembled, the board can be programmed using standard ESP32-C3 toolchains s
 
 
 
-Applications
-
+Applications:
 - IoT devices
 - Wearable electronics
 - Embedded wireless systems
