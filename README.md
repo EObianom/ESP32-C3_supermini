@@ -51,6 +51,7 @@ Once assembled, the board can be programmed using standard ESP32-C3 toolchains s
 ---
 
 🎯 Applications
+
 IoT devices
 Wearable electronics
 Embedded wireless systems
