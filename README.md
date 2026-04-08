@@ -26,8 +26,8 @@ Features:
 - Low component count for cost-effective manufacturing
 - Fully production-ready design files included
 
-Repository Contents:
 
+Repository Contents:
 This repository provides a complete hardware package ready for fabrication and assembly:
 
 1. Schematic
@@ -57,9 +57,9 @@ Applications:
 - Smart sensors and edge devices
 - Custom ESP32-based product development
 
----
 
-⚠️ Disclaimer: This design is intended for research, development, and prototyping purposes only. Ensure proper RF compliance and certification before using in commercial products. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+Disclaimer: This design is intended for research, development, and prototyping purposes only. Ensure proper RF compliance and certification before using in commercial products. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 Contributions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
