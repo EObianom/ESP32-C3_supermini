@@ -48,15 +48,15 @@ This repository provides a complete hardware package ready for fabrication and a
 
 Once assembled, the board can be programmed using standard ESP32-C3 toolchains such as ESP-IDF or Arduino.
 
----
 
-🎯 Applications
 
-IoT devices
-Wearable electronics
-Embedded wireless systems
-Smart sensors and edge devices
-Custom ESP32-based product development
+Applications
+
+- IoT devices
+- Wearable electronics
+- Embedded wireless systems
+- Smart sensors and edge devices
+- Custom ESP32-based product development
 
 ---
 
