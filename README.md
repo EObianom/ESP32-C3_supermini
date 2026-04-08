@@ -8,9 +8,9 @@ Small footprint. Full capability. No shortcuts.
 
 <img width="1063" height="908" alt="image" src="https://github.com/user-attachments/assets/6092a6de-4cfd-4821-9901-91710356ab02" />
 
----
 
-🧠 Overview
+
+Overview:
 
 This project implements a highly compact ESP32-C3-based development board, designed from the ground up using the ESP32-C3 chip rather than a ready-made module. By eliminating unnecessary overhead and integrating a compact antenna based on manufacturer specifications, the design significantly reduces board size while maintaining reliable wireless performance.
 
@@ -26,7 +26,7 @@ Features:
 - Low component count for cost-effective manufacturing
 - Fully production-ready design files included
 
-Repository Contents
+Repository Contents:
 
 This repository provides a complete hardware package ready for fabrication and assembly:
 
@@ -37,9 +37,9 @@ This repository provides a complete hardware package ready for fabrication and a
 5. BOM (JLC Format): Bill of Materials.
 6. CPL File: Pick-and-place file for automated component assembly.
 
----
 
-🚀 Getting Started
+
+Getting Started:
 1.Review the schematic to understand system design and component choices
 2. Open the PCB layout in KiCad to inspect placement and routing
 3. Generate or use provided Gerber files to order your PCB
