@@ -10,7 +10,7 @@ Small footprint. Full capability. No shortcuts.
 
 
 
-Overview:
+## Overview:
 
 This project implements a highly compact ESP32-C3-based development board, designed from the ground up using the ESP32-C3 chip rather than a ready-made module. By eliminating unnecessary overhead and integrating a compact antenna based on manufacturer specifications, the design significantly reduces board size while maintaining reliable wireless performance.
 
