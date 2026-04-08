@@ -64,3 +64,5 @@ Custom ESP32-based product development
 Contributions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
 Designed and developed by Ekenedirichukwu Obianom
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
