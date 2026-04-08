@@ -40,7 +40,7 @@ This repository provides a complete hardware package ready for fabrication and a
 
 
 ## Getting Started:
-1.Review the schematic to understand system design and component choices
+1. Review the schematic to understand system design and component choices
 2. Open the PCB layout in KiCad to inspect placement and routing
 3. Generate or use provided Gerber files to order your PCB
 4. Upload the BOM and CPL files to JLCPCB (or similar) for assembly
