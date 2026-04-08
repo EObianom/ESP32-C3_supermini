@@ -34,6 +34,8 @@ This repository provides a complete hardware package ready for fabrication and a
 2. PCB Layout: Compact and optimised routing, including RF considerations
 3. Footprints
 4. Gerber Files: Ready-to-manufacture PCB fabrication files
+5. BOM (JLC Format): Bill of Materials.
+6. CPL File: Pick-and-place file for automated component assembly.
 
 ---
 
@@ -41,7 +43,7 @@ This repository provides a complete hardware package ready for fabrication and a
 1.Review the schematic to understand system design and component choices
 2. Open the PCB layout in KiCad to inspect placement and routing
 3. Generate or use provided Gerber files to order your PCB
-4. Upload BOM and CPL files to PCB printer for assembly
+4. Upload the BOM and CPL files to JLCPCB (or similar) for assembly
 5. Flash firmware via USB and begin development
 
 Once assembled, the board can be programmed using standard ESP32-C3 toolchains such as ESP-IDF or Arduino.
