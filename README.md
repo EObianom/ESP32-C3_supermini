@@ -39,7 +39,7 @@ This repository provides a complete hardware package ready for fabrication and a
 
 
 
-Getting Started:
+##Getting Started:
 1.Review the schematic to understand system design and component choices
 2. Open the PCB layout in KiCad to inspect placement and routing
 3. Generate or use provided Gerber files to order your PCB
@@ -58,7 +58,7 @@ Applications:
 - Custom ESP32-based product development
 
 
-
+---
 Disclaimer: This design is intended for research, development, and prototyping purposes only. Ensure proper RF compliance and certification before using in commercial products. This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
 Contributions and improvements are welcome. Feel free to open an issue or submit a pull request.
