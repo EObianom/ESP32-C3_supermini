@@ -6,7 +6,8 @@ A minimal, production-ready ESP32-C3 hardware design built from the bare chip, n
 
 Small footprint. Full capability. No shortcuts.
 
-<img width="1063" height="908" alt="image" src="https://github.com/user-attachments/assets/6092a6de-4cfd-4821-9901-91710356ab02" />
+<img width="898" height="794" alt="image" src="https://github.com/user-attachments/assets/b536c48f-1327-4588-a2d2-29b024d6fe0b" />
+
 
 
 
